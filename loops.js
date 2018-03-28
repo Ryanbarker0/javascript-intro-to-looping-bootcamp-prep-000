@@ -5,9 +5,9 @@ function forLoop(array) {
       array.unshift("I am 1 strange loop.")
     } else {
       array.unshift(`I am ${i} strange loops.`)
+    }
   }
   return array
-}
 }
 
 
