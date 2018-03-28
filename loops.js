@@ -8,6 +8,8 @@ function forLoop(array) {
   }
   return array
 }
+}
+
 
 
 //    if (i === 1) {
