@@ -1,6 +1,6 @@
 function forLoop(array) {
   for (let i = 0; i < 25; i++) {
-    console.log(array.unshift("I am 1")
+    console.log(array.unshift("I am 1"))
   }
 }
 
