@@ -1,7 +1,7 @@
 function forLoop(array) {
   for (let i = 0; i < 25; i++) {
     if (i === 1) {
-      array.unshift("I am a strange loop.")
+      array.unshift("fart")
     } else {
       array.unshift(`I am ${i} strange loops.`)
     }
