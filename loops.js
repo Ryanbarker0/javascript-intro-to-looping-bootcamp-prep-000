@@ -2,8 +2,8 @@ function forLoop(array) {
   for (let i = 0; i < 25; i++) {
     if (i === 1) {
       console.log(array.unshift("I am" + i + "strange loop."))
-  } else {
-    console.log
+  } else { 
+    console.log(array.unshift(`I am ${i} strange loops`))
   }
 }
 
