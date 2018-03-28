@@ -19,7 +19,7 @@ function whileLoop(n) {
 function doWhileLoop(array) {
   do {
     console.log(array)
-  } while (array.length > 0 && maybeTrue()) {
+  } while (array.length > 0 && maybeTrue(array)) {
       return array
     }
 }
