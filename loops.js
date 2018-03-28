@@ -6,5 +6,5 @@ function forLoop(array) {
       array.unshift(`I am ${i} strange loops.`)
     }
   }
-  console.log(array)
+  return (array)
 }
