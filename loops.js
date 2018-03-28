@@ -1,9 +1,6 @@
 function forLoop(array) {
   for (let i = 0; i < 25; i++) {
-    if (i) {
-      console.log(array)
-    } else {
-      console.log("nothing")
+    console.log(array["I am 1"])
   }
 }
 
